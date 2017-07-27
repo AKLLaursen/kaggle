@@ -14,4 +14,13 @@ state-farm-distracted-driver-detection/train
 state-farm-distracted-driver-detection/valid
 state-farm-distracted-driver-detection/driver_imgs_list.csv
 state-farm-distracted-driver-detection/sample_submission.csv
-
+state-farm-distracted-driver-detection/models
+state-farm-distracted-driver-detection/results
+invasive-species-monitoring/.ipynb_checkpoints
+invasive-species-monitoring/test
+invasive-species-monitoring/train
+invasive-species-monitoring/valid
+invasive-species-monitoring/train_labels.csv
+invasive-species-monitoring/sample_submission.csv
+invasive-species-monitoring/models
+invasive-species-monitoring/results
