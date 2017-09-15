@@ -7,6 +7,7 @@ dogs-vs-cats-redux-kernels-edition/valid
 dogs-vs-cats-redux-kernels-edition/sample_submission.csv
 dogs-vs-cats-redux-kernels-edition/submission1.csv
 dogs-vs-cats-redux-kernels-edition/submission2.csv
+dogs-vs-cats-redux-kernels-edition/weights
 state-farm-distracted-driver-detection/.ipynb_checkpoints
 state-farm-distracted-driver-detection/sample
 state-farm-distracted-driver-detection/test
@@ -16,6 +17,7 @@ state-farm-distracted-driver-detection/driver_imgs_list.csv
 state-farm-distracted-driver-detection/sample_submission.csv
 state-farm-distracted-driver-detection/models
 state-farm-distracted-driver-detection/results
+state-farm-distracted-driver-detection/weights
 invasive-species-monitoring/.ipynb_checkpoints
 invasive-species-monitoring/test
 invasive-species-monitoring/train
