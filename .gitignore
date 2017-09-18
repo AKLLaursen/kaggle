@@ -26,3 +26,14 @@ invasive-species-monitoring/train_labels.csv
 invasive-species-monitoring/sample_submission.csv
 invasive-species-monitoring/models
 invasive-species-monitoring/results
+the-nature-conservancy-fisheries-monitoring/.ipynb_checkpoints
+the-nature-conservancy-fisheries-monitoring/annos
+the-nature-conservancy-fisheries-monitoring/models
+the-nature-conservancy-fisheries-monitoring/results
+the-nature-conservancy-fisheries-monitoring/sample
+the-nature-conservancy-fisheries-monitoring/test
+the-nature-conservancy-fisheries-monitoring/test_stg2
+the-nature-conservancy-fisheries-monitoring/train
+the-nature-conservancy-fisheries-monitoring/valid
+the-nature-conservancy-fisheries-monitoring/sample_submission_stg1.csv
+the-nature-conservancy-fisheries-monitoring/sample_submission_stg2.csv
